@@ -4,27 +4,27 @@
     "name": "课标小学",
     "desc": "小学课标基础词汇",
     "words": 502,
-    "url": "https://cdn.jsdelivr.net/gh/397436448/vocab-libs@main/p.json"
+    "url": "https://cdn.jsdelivr.net/gh/397436448/vocab-libs@main/cloud-libs/p.json"
   },
   {
     "id": "j",
     "name": "中考英语",
     "desc": "小学+初中课标词汇",
     "words": 1569,
-    "url": "https://cdn.jsdelivr.net/gh/397436448/vocab-libs@main/j.json"
+    "url": "https://cdn.jsdelivr.net/gh/397436448/vocab-libs@main/cloud-libs/j.json"
   },
   {
     "id": "g",
     "name": "高考英语",
     "desc": "高考课标词汇",
     "words": 3227,
-    "url": "https://cdn.jsdelivr.net/gh/397436448/vocab-libs@main/g.json"
+    "url": "https://cdn.jsdelivr.net/gh/397436448/vocab-libs@main/cloud-libs/g.json"
   },
   {
     "id": "prog",
     "name": "编程英语",
     "desc": "编程学习常用词汇",
     "words": 167,
-    "url": "https://cdn.jsdelivr.net/gh/397436448/vocab-libs@main/prog.json"
+    "url": "https://cdn.jsdelivr.net/gh/397436448/vocab-libs@main/cloud-libs/prog.json"
   }
 ]
